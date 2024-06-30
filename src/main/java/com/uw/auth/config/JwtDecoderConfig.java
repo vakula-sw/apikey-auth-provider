@@ -1,4 +1,4 @@
-package com.uw.uaa.config;
+package com.uw.auth.config;
 
 
 import org.springframework.context.annotation.Bean;
